@@ -1,4 +1,4 @@
-name: SM64coop+ Android
+name: SM64coop+ Android Build
 
 on:
   workflow_dispatch:
